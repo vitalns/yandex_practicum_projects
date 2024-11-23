@@ -7,6 +7,7 @@
 Это выпускной проект в котором собраны все основные преобретённые навыки.
 
 *Используемые библиотеки:* numpy, pandas, matplotlib, seaborn, ploty, sklearn, lightgbm, catboost, hyperopt, keras
+
 *Используемые инструменты:*
 - Анализ и чистка данных (обработка пропусков и выбросов): describe, agg, groupby, apply, query, to_datetime, isnull, fillna, dropna, join, concat, ...;
 - Проверка данных на мультиколлениарность: corr (heatmap), variance_inflation_factor (VIF анализ), SelectKBest (F-regression);
